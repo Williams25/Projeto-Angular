@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icone-mais candidatos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7" cy="3" r="3"/>
+    </defs>
+    <g id="Empresas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[L]-Sou-empresa" transform="translate(-1040.000000, -880.000000)">
+            <g id="vantagens" transform="translate(0.000000, 664.000000)">
+                <g id="lista" transform="translate(70.000000, 216.000000)">
+                    <g id="valor" transform="translate(878.000000, 0.000000)">
+                        <g id="icone-mais-candidatos" transform="translate(92.000000, 0.000000)">
+                            <rect id="area" x="0" y="0" width="80" height="80"/>
+                            <g id="ilustra">
+                                <path d="M12.5,43.5 L48.5,16.5" id="Line" stroke="#41A9B9" stroke-width="2" stroke-linecap="square"/>
+                                <path d="M49.5,16.5 L61.5,62.5" id="Line" stroke="#41A9B9" stroke-width="2" stroke-linecap="square"/>
+                                <path d="M12.5,42.5 L3.92382812,14.0224609" id="Line" stroke="#41A9B9" stroke-width="2" stroke-linecap="square"/>
+                                <path d="M61.1923828,62.7441406 L23.5,71.5" id="Line" stroke="#41A9B9" stroke-width="2" stroke-linecap="square"/>
+                                <path d="M61.5,62.5 L74.5,33.5" id="Line" stroke="#41A9B9" stroke-width="2" stroke-linecap="square"/>
+                                <g id="bolinha" transform="translate(18.000000, 65.000000)">
+                                    <circle id="Oval-9" fill="#FFFFFF" cx="6" cy="6" r="6"/>
+                                    <circle id="Oval-9" fill="#E2EFF1" cx="8" cy="8" r="3"/>
+                                    <circle id="Oval-9" stroke="#41A9B9" stroke-width="2" cx="6" cy="6" r="5"/>
+                                </g>
+                                <g id="bolinha" transform="translate(70.000000, 29.000000)">
+                                    <circle id="Oval-9" fill="#FFFFFF" cx="5" cy="5" r="5"/>
+                                    <circle id="Oval-9" fill="#E2EFF1" cx="6.5" cy="6.5" r="2.5"/>
+                                    <circle id="Oval-9" stroke="#41A9B9" stroke-width="2" cx="5" cy="5" r="4"/>
+                                </g>
+                                <g id="bolinha" transform="translate(0.000000, 10.000000)">
+                                    <circle id="Oval-9" fill="#FFFFFF" cx="4" cy="4" r="4"/>
+                                    <circle id="Oval-9" fill="#E2EFF1" cx="5" cy="5" r="2"/>
+                                    <circle id="Oval-9" stroke="#41A9B9" stroke-width="2" cx="4" cy="4" r="3"/>
+                                </g>
+                                <g id="bolinha" transform="translate(43.000000, 44.000000)">
+                                    <circle id="Oval-8" fill="#FFFFFF" cx="18" cy="18" r="18"/>
+                                    <circle id="Oval-8" fill="#E2EFF1" cx="20" cy="20" r="15"/>
+                                    <circle id="Oval-8" stroke="#41A9B9" stroke-width="2" cx="18" cy="18" r="17"/>
+                                    <g id="pessoa" transform="translate(8.000000, 7.000000)">
+                                        <path d="M10.0596401,12 C17.9000419,12 20,13.4742839 20,20 C14.2163086,20 5.30447824,20 0,20 C0,13.3567708 2.21923828,12 10.0596401,12 Z" id="Rectangle-15" fill="#FFFFFF"/>
+                                        <path d="M12.5447301,16 C18.4250314,16 20,17.1057129 20,22 C15.6622314,22 8.97835868,22 5,22 C5,17.0175781 6.66442871,16 12.5447301,16 Z" id="Rectangle-15" fill="#E2EFF1"/>
+                                        <path d="M18.9828683,19 C15.5976476,19 15.2083855,19 10.5922779,19 C5.22326709,19 4.81275928,19 1.01706232,19 C1.20113712,14.0118744 2.95365029,13 10.0596401,13 C17.0591186,13 18.7990996,14.0383384 18.9828683,19 Z" id="Rectangle-15" stroke="#41A9B9" stroke-width="2"/>
+                                        <circle id="Oval-7" fill="#FFFFFF" cx="10" cy="5" r="5"/>
+                                        <circle id="Oval-7" fill="#E2EFF1" cx="11.5" cy="6.5" r="2.5"/>
+                                        <circle id="Oval-7" stroke="#41A9B9" stroke-width="2" cx="10" cy="5" r="4"/>
+                                    </g>
+                                </g>
+                                <g id="bolinha" transform="translate(33.000000, 0.000000)">
+                                    <circle id="Oval-8" fill="#FFFFFF" cx="16" cy="16" r="16"/>
+                                    <circle id="Oval-8" fill="#E2EFF1" cx="18" cy="18" r="13"/>
+                                    <circle id="Oval-8" stroke="#41A9B9" stroke-width="2" cx="16" cy="16" r="15"/>
+                                    <g id="pessoa" transform="translate(7.000000, 6.000000)">
+                                        <path d="M9.05367606,10 C16.1100377,10 18,11.2899984 18,17 C12.7946777,17 4.77403041,17 0,17 C0,11.1871745 1.99731445,10 9.05367606,10 Z" id="Rectangle-15" fill="#FFFFFF"/>
+                                        <path d="M11.7500698,13.2222222 C16.4543108,13.2222222 17.7142857,14.1436496 17.7142857,18.2222222 C14.2440709,18.2222222 8.89697266,18.2222222 5.71428571,18.2222222 C5.71428571,14.070204 7.04582868,13.2222222 11.7500698,13.2222222 Z" id="Rectangle-15" fill="#E2EFF1"/>
+                                        <path d="M16.9793796,16 C14.0292207,16 13.6392365,16 9.53305009,16 C4.7509972,16 4.33961682,16 1.02054869,16 C1.20870719,11.8317743 2.77156927,11 9.05367606,11 C15.2405683,11 16.7916292,11.8533334 16.9793796,16 Z" id="Rectangle-15" stroke="#41A9B9" stroke-width="2"/>
+                                        <circle id="Oval-7" fill="#FFFFFF" cx="9" cy="4" r="4"/>
+                                        <circle id="Oval-7" fill="#E2EFF1" cx="10.1666667" cy="5.16666667" r="1.94444444"/>
+                                        <circle id="Oval-7" stroke="#41A9B9" stroke-width="2" cx="9" cy="4" r="3"/>
+                                    </g>
+                                </g>
+                                <g id="bolinha" transform="translate(0.000000, 30.000000)">
+                                    <circle id="Oval-8" fill="#FFFFFF" cx="13" cy="13" r="13"/>
+                                    <circle id="Oval-8" fill="#E2EFF1" cx="14.5" cy="14.5" r="10.5"/>
+                                    <circle id="Oval-8" stroke="#41A9B9" stroke-width="2" cx="13" cy="13" r="12"/>
+                                    <g id="pessoa" transform="translate(5.777778, 5.055556)">
+                                        <path d="M7.04174805,8 C12.5300293,8 14,9.10571289 14,14 C9.95141602,14 3.71313477,14 0,14 C0,9.01757812 1.5534668,8 7.04174805,8 Z" id="Rectangle-15" fill="#FFFFFF"/>
+                                        <path d="M9.52683803,11 C13.0550188,11 14,11.7371419 14,15 C11.3973389,15 7.38701521,15 5,15 C5,11.6783854 5.99865723,11 9.52683803,11 Z" id="Rectangle-15" fill="#E2EFF1"/>
+                                        <path d="M12.9786123,13 C7.15571795,13 6.54489162,13 1.02129436,13 C1.18315452,9.62508691 2.3435887,9 7.04174805,9 C11.6647903,9 12.8169864,9.64226973 12.9786123,13 Z" id="Rectangle-15" stroke="#41A9B9" stroke-width="2"/>
+                                        <g id="Oval-7">
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"/>
+                                            <circle stroke="#41A9B9" stroke-width="2" cx="7" cy="3" r="2"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
